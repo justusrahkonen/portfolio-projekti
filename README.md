@@ -13,3 +13,7 @@ Justus Rahkonen
 Profiilikuva: - Lähde: Pixabay - Kuvan ottaja: jatocreate - Lisenssi: Pixabay Content License
 Bannerikuva: - Lähde: Pixabay - Kuvan ottaja: 
 ArWeltAtty - Lisenssi: Pixabay Content License
+
+# Projektin laajennus
+Tässä tehtävässä toteutin seuraavan laajennuksen:
+- Lisäsin sivulle napin josta avautuu tervehdysviesti
