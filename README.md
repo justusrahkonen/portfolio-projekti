@@ -6,10 +6,10 @@ Sivu on tarkoitettu opettajille, mahdollisille työnantajille, sekä muille, jot
 ## Käytettävät teknologiat
 HTML - CSS - JavaScript - Git - GitHub
 
-##Tekijä:
+## Tekijä:
 Justus Rahkonen
 
-##Kuvat ja lisenssit
+## Kuvat ja lisenssit
 Profiilikuva: - Lähde: Pixabay - Kuvan ottaja: jatocreate - Lisenssi: Pixabay Content License
 Bannerikuva: - Lähde: Pixabay - Kuvan ottaja: 
 ArWeltAtty - Lisenssi: Pixabay Content License
