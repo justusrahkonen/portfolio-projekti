@@ -9,3 +9,7 @@ HTML - CSS - JavaScript - Git - GitHub
 ##Tekijä:
 Justus Rahkonen
 
+##Kuvat ja lisenssit
+Profiilikuva: - Lähde: Pixabay - Kuvan ottaja: jatocreate - Lisenssi: Pixabay Content License
+Bannerikuva: - Lähde: Pixabay - Kuvan ottaja: 
+ArWeltAtty - Lisenssi: Pixabay Content License
